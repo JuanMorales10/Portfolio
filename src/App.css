@@ -292,7 +292,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 .left{
-  width: 70%;
+  width: 65%;
 }
 
 .right{
@@ -538,7 +538,7 @@ ul a.link {
 }
 .proj-imgbx::before {
   content: "";
-  background: linear-gradient(90.21deg, rgb(97 54 170 / 50%) -5.91%, rgb(47 189 125 / 50%) 111.58%);
+  background: linear-gradient(90.21deg, rgb(229 227 234 / 50%) -5.91%, rgb(89 90 89 / 50%) 111.58%);
   opacity: 0.85;
   position: absolute;
   width: 100%;
@@ -763,7 +763,7 @@ ul a.link {
 }
 .contact img {
   width: 92%;
-  margin-left: 7vw;
+  margin-left: 5vw;
 }
 .contact h2 {
 	font-size: 45px;

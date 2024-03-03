@@ -2,13 +2,13 @@ import { Container, Row, Col, Tab, Nav, TabPane } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import projImg1 from "../assets/img/projectML.avif";
 import projImg3 from "../assets/img/portfolio.avif";
-import projImg2 from "../assets/img/El-Bodegon.png";
-import cerImg1 from "../assets/img/Certificado_Curso_Programacin_FullStack_page-0001.jpg"
+import projImg2 from "../assets/img/el-bodegon.avif";
+import cerImg1 from "../assets/img/egg.avif"
 import cerIg2 from '../assets/img/javascripPlatzi1.avif'
 import cerIg3 from '../assets/img/javascriptPlatzi2.avif'
 import cerIg4 from '../assets/img/javascriptCoder.avif'
 import projImg4 from '../assets/img/Suplemments.avif'
-import inprogress from "../assets/img/In-progress.jpg";
+import inprogress from "../assets/img/dimo.avif";
 import digital from "../assets/img/Juan-Morales-diploma.avif"
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
