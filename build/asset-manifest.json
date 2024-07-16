@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55f5b226.css",
+    "main.js": "/static/js/main.56029ac2.js",
+    "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
+    "static/media/perfil-foto.png": "/static/media/perfil-foto.bb2822903564c30d4531.png",
+    "static/media/el-bodegon.avif": "/static/media/el-bodegon.332144ce02e2bd196038.avif",
+    "static/media/back.avif": "/static/media/back.f2e6a9280c057cf59987.avif",
+    "static/media/dimo.avif": "/static/media/dimo.79aea7a3f80ffe689542.avif",
+    "static/media/mockup-contact.avif": "/static/media/mockup-contact.b766de9c4c6bd4848f01.avif",
+    "static/media/egg.avif": "/static/media/egg.f066cacc54a5e8c56d88.avif",
+    "static/media/javascriptPlatzi2.avif": "/static/media/javascriptPlatzi2.0cd0f2e658bc432037ec.avif",
+    "static/media/javascripPlatzi1.avif": "/static/media/javascripPlatzi1.e8a0c576dc64ba980eaf.avif",
+    "static/media/portfolio.avif": "/static/media/portfolio.ea2f829f72c4c0ec9435.avif",
+    "static/media/Juan-Morales-diploma.avif": "/static/media/Juan-Morales-diploma.748dbabea307abcfd9ff.avif",
+    "static/media/projectML.avif": "/static/media/projectML.b0d6d4395006bdb84fcf.avif",
+    "static/media/Suplemments.avif": "/static/media/Suplemments.b1f4ddb5a858ae6195d2.avif",
+    "static/media/javascriptCoder.avif": "/static/media/javascriptCoder.982e96c80b9c7341d2dd.avif",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.55f5b226.css.map": "/static/css/main.55f5b226.css.map",
+    "main.56029ac2.js.map": "/static/js/main.56029ac2.js.map",
+    "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55f5b226.css",
+    "static/js/main.56029ac2.js"
+  ]
+}
