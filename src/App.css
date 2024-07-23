@@ -306,13 +306,39 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-bottom: 50px;
 }
 
+  @media (max-width: 800px) {
+    .banner h1{
+      font-size: 55px !important;
+    }
+  
+    .banner p{
+      margin-top: 50px;
+    }
+    .logojm{
+      height: 50px;
+    }
+  }
+
 @media (max-width: 550px) {
   .right {
     display: none; 
   }
 
   .left{
+    
     width: 100%;
+  }
+
+  /* .txt-rotate{
+    font-size:;
+  } */
+
+  .banner h1{
+    font-size: 45px !important;
+  }
+
+  .parra{
+    margin-top: 50px;
   }
 }
 

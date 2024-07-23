@@ -10,6 +10,7 @@ import cerIg4 from '../assets/img/javascriptCoder.avif'
 import projImg4 from '../assets/img/Suplemments.avif'
 import inprogress from "../assets/img/dimo.avif";
 import digital from "../assets/img/Juan-Morales-diploma.avif"
+import vicio from "../assets/img/fondoVicio.png" 
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -43,6 +44,12 @@ export const Projects = () => {
       title: "Dimo Startup",
       description: "Design & Development",
       imgUrl: inprogress,
+    }
+    ,
+    {
+      title: "Vicio Vintage",
+      description: "Design & Development",
+      imgUrl: vicio
     }
   ];
 

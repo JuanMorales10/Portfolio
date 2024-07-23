@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import logojm from '../assets/img/perfil-foto.png';
+import logojm from '../assets/img/foto sin fondo-Photoroom.png';
 import { faGithub , faInstagram, faLinkedin} from '@fortawesome/free-brands-svg-icons';
 
 
@@ -65,7 +65,7 @@ export const Banner = () => {
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   {/* <span className="tagline">My Portfolio</span> */}
                   <h1>{`Hi! I'm Juan Morales`} <span className="txt-rotate" dataPeriod="1000" data-rotate='["Full Stack Developer", "Web Designer"]'><span className="wrap">{text}</span></span></h1>
-                  <p>I define myself as a programming enthusiast with an insatiable thirst for knowledge and innovation. Each day presents an opportunity to explore new technologies and approaches in search of innovative solutions. My methodical approach and obsession with organization ensure precision and efficiency in every project I undertake. I take pride in my ability to simplify complex tasks and maintain a structure that guarantees success. I am currently on the lookout for my next professional adventure in the world of programming, with the determination to make a difference and grow as a standout professional. Through this pursuit, I hope to contribute to the success of innovative projects and learn from the brilliant minds I encounter along the way.</p>
+                  <p className="parra">I define myself as a programming enthusiast with an insatiable thirst for knowledge and innovation. Each day presents an opportunity to explore new technologies and approaches in search of innovative solutions. My methodical approach and obsession with organization ensure precision and efficiency in every project I undertake. I take pride in my ability to simplify complex tasks and maintain a structure that guarantees success. I am currently on the lookout for my next professional adventure in the world of programming, with the determination to make a difference and grow as a standout professional. Through this pursuit, I hope to contribute to the success of innovative projects and learn from the brilliant minds I encounter along the way.</p>
                   <div className="social-icon">
                 <a href="https://www.linkedin.com/in/juan-morales-pacheco-desarrolladorweb" target="_blank" rel="noreferrer">
                 <FontAwesomeIcon icon={faLinkedin} className="icon-class" style={{ color: "#fff" }} />
